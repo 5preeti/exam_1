@@ -1,0 +1,32 @@
+body{
+    
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    background-position-y: 100%;
+
+}
+
+H1
+{
+    text-align: center;
+    font-size: 150px;
+    color: black;
+}
+form
+{
+  text-align: center;
+ font-size: 40px;
+ font-weight: bold;
+     
+}
+form input
+{
+  width: 10%;
+    height:30px;
+}
+.un{
+   text-align: center;
+   font-size: 60px;
+}

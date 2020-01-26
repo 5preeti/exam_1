@@ -1,0 +1,26 @@
+select
+{
+  
+   margin-left: 30%;
+ 
+    font-size: 50px;
+    width: 33%;
+}
+label
+{
+   margin-left: 30%;
+    font-size: 60px;
+}
+form
+{
+    margin-top: 20%;
+}
+body{
+    
+    background-image: url(simple-tumblr-black-and-white-wallpapers-high-quality.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    background-position-y: 100%;
+
+}

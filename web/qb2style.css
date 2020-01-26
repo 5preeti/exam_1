@@ -1,0 +1,33 @@
+body{
+    
+    background-image: url(043da9f6c45b668e7ad150b44314b6f1.JPG);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    background-position-y: 100%;
+
+}
+input{
+    width: 350px;
+    height:60px;
+    border: 3px solid black;
+    font-size: 30px;
+    background-color: whitesmoke;
+}
+label{
+    font-weight: bold;
+    font-size: 50px;
+}
+h1{
+    font-family: serif;
+    color: black;
+  font-size: 100px;
+}
+textarea{
+    width: 350px;
+    height:60px;
+    border: 3px solid black;
+    font-size: 30px;
+    background-color: whitesmoke;
+    
+}
